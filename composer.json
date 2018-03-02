@@ -1,0 +1,13 @@
+{
+    "name": "tchappui/scherzo-http-message",
+    "description": "Scherzo-http-message is a PSR7-compliant request/response component developed for the Scherzo educational webb framework.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thierry Chappuis",
+            "email": "thierry@chappuis.io"
+        }
+    ],
+    "require": {}
+}
